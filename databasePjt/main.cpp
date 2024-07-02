@@ -16,8 +16,11 @@ int main(){
 
     database<int> db;
 
+
+    //issues with insert function...
     db.insert(10);
-    
+
+    cout<< "error"<<endl;
 
     
 
