@@ -1,0 +1,28 @@
+The Drawing Board:
+
+
+
+
+Project: Database Creator
+
+Objective: User can create databases on command, and create them of any type.
+- they can enter any information they want.
+
+- Passwords, names, numbers, strings. honestly whatever...
+
+Secondary objectives:
+
+- Allow user to search for information based on a string key.
+
+- <=O(n) run time...
+ 
+- manipulation of the dataset itself. specifically removing items. 
+\
+
+
+
+Current objective:
+
+(COMPLETED): Created different types of databases. Have yet to edit them.
+
+implement a method that allows the user to enter items into the hash table via string created keys.

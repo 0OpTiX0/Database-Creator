@@ -16,13 +16,12 @@ template <class T>
 class database {
     
     private:
-
         unordered_map<string, T> db;
+        
     public:
 
         void add(string key, T data){
-
-            
+            db[key] = data;
         }
 
 
