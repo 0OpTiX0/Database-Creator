@@ -1,0 +1,23 @@
+Project 1 Assignments (Subject to Change)
+
+Ethan: Checkerboard (50%)
+
+Liam: Direction Enum
+
+Kyle : Board Position
+
+Joseph: Checkerboard (50%)
+
+
+If you are willing to pick up any slack if someone is unable to accomplish their task,
+put your name here. For those who are unable to complete their task, let Ye know. He might 
+dock your grade...
+
+Willing:
+Joseph
+
+Unwilling:
+
+
+DONT FORGET TO UPDATE DOCUMENTATION HERE ON GITHUB. GitHub will act like a backup for any documentation that is lost or corrupted. Text The Boys before
+adding any new documentation or changes to any files.
